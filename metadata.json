@@ -1,0 +1,5 @@
+{
+  "name": "TurboStudy AI",
+  "description": "AI-powered study tool that converts lectures, PDFs, and links into notes, flashcards, and quizzes.",
+  "requestFramePermissions": []
+}
